@@ -58,7 +58,7 @@ Four classification algorithms were tuned using `GridSearchCV` on standardized f
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/gjiajanelle/Final-Project.git](https://github.com/gjiajanelle/Final-Project.git)
+   git clone [https://github.com/gjiajanelle/Final-Project.git](https://github.com/gjiajanelle/SpaceX-Falcon-9-First-Stage-Landing-Prediction.git)
    cd Final-Project
    ```
 
